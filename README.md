@@ -1,4 +1,4 @@
-# Hi, I'm Bru.exe ⋆
+# Hi, I'm Bruna ⋆
 
 Aspiring full stack developer, building my coding journey one commit at a time.
 
